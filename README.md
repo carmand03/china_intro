@@ -9,4 +9,4 @@ At the root:
 This paper serves as the introduction to the JDH special issue on Chinese digital history. It presents the articles gathered in the special issue, questions the relevance of area studies and calls for a computational turn in Chinese studies and the humanities at large. 
 
 # Keywords
-modern China, digital history, summer school
+China, Digital humanities, Computational turn, Area studies
